@@ -1,7 +1,7 @@
 <head>
 <title>random graphs
 </title>
-<meta http-equiv="refresh" content="60;url=random.php">
+<meta http-equiv="refresh" content="61;url=random.php">
 <style>
 img{float:left; margin:0}
 </style>
